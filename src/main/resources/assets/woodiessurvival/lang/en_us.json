@@ -1,5 +1,19 @@
 {
   "item.woodiessurvival.wildcarrots": "Wild Carrots",
   "item.woodiessurvival.oats": "Oats",
-  "item.woodiessurvival.oatporridge": "Oat Porridge"
+  "item.woodiessurvival.cabbageleaf": "Cabbage Leaf",
+  "item.woodiessurvival.oatporridge": "Oat Porridge",
+  "item.woodiessurvival.ruby": "Ruby",
+  "item.woodiessurvival.sapphire": "Sapphire",
+  "item.woodiessurvival.topaz": "Topaz",
+  "item.minecraft.amethyst_shard": "Amethyst",
+  "item.minecraft.quartz": "Quartz",
+  "item.woodiessurvival.diamond_powder": "Diamond Powder",
+  "item.woodiessurvival.ruby_powder": "Ruby Powder",
+  "item.woodiessurvival.sapphire_powder": "Sapphire Powder",
+  "item.woodiessurvival.emerald_powder": "Emerald Powder",
+  "item.woodiessurvival.amethyst_powder": "Amethyst Powder",
+  "item.woodiessurvival.topaz_powder": "Topaz Powder",
+  "item.woodiessurvival.quartz_powder": "Quartz Powder",
+  "item.woodiessurvival.lapis_lazuli_powder": "Lapis Lazuli Powder"
 }
